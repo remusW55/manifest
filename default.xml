@@ -24,7 +24,7 @@
           sync-c="true"
           sync-tags="false"
           review="https://android-review.googlesource.com/"
-          revision="refs/tags/android-13.0.0_r23"/>
+          revision="refs/tags/android-14.0.0_r67"/>
 
   <include name="system.xml"/>
   <include name="vendor.xml"/>
